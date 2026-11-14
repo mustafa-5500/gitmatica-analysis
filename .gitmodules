@@ -1,0 +1,8 @@
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/soullessjump/gitmatica.wiki.git
+[submodule "./wiki"]
+	url = https://github.com/mustafa-5500/gitmatica-analysis.wiki.git
+[submodule "Utils"]
+	path = Utils
+	url = https://github.com/mustafa-5500/Utils
